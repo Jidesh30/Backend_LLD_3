@@ -1,4 +1,4 @@
-package CaseStudy.parkingLot.models;
+package CaseStudy.parkinglot.models;
 
 import java.util.Date;
 
