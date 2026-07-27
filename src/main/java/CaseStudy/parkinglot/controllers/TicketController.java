@@ -8,6 +8,6 @@ import CaseStudy.parkinglot.models.dtos.TicketResponse;
 public class TicketController {
     TicketResponse issueTicket(TicketRequest ticketRequest) {
 
-        return new Ticket();
+        return new TicketResponse();
     }
 }
